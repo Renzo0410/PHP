@@ -1,0 +1,37 @@
+.btn_vm {
+color: #FAFAFA !important;
+background-color: #0D6EFD !important;
+justify-content: flex-end !important;
+}
+
+.img_n {
+    margin-bottom: 0 !important;
+}
+
+.t_c {
+    padding: 8px;
+    background-color: #FAFAFA;
+}
+
+.t-c_1 {
+    margin: 5px 0 15px 0;
+}
+
+@media screen and (max-width: 770px) {
+    .new_sc {
+        margin: 5px 0px !important;
+        background-color: #FAFAFA;
+    }
+
+    .new_sc h2 {
+        padding: 10px 0 5px 0;
+    }
+
+    .t_c {
+        background-color: white;
+    }
+
+    .new_sc {
+        display: none;
+    }
+}

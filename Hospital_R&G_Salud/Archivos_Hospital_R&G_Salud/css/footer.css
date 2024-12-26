@@ -1,0 +1,67 @@
+.c_f {
+    margin-top: 5px;
+    padding-top: 10px;
+    color: #FAFAFA;
+    background-color: #101a9a;
+}
+
+.c_f footer {
+    padding: 10px 0;    
+}
+
+.c-title_footer {
+    margin: 10px 0;
+}
+
+.c-title_footer span {
+    font-size: .8rem;
+    text-align: justify;
+}
+
+.c-t_footer p {
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+.l-pf {
+    height: 3px;
+    background-color: #FAFAFA;
+}
+
+.redsocial {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.c-r-footer {
+    padding: 10px 0;
+}
+
+.c-r-footer span {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.div-t-p {
+    padding: 15px;
+}
+
+.c-pp_footer div a, .c-pp_footer div p {
+    color: #FAFAFA;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 576px) {
+    .c-r-footer {
+        margin: 40px 0;
+    }
+
+    .c-r-footer span, .c-title_footer {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .c-r-footer span {
+        font-size: 1.3rem;
+    }
+}

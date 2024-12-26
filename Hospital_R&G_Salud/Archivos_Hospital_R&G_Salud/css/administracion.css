@@ -1,0 +1,114 @@
+/* ADMINISTRACIÓN DE USUARIOS */
+.c-admin-user, .form-create-user, .form-delete-user {
+    margin: 20px 0;
+}
+
+.form-control, .select-rol {
+    margin-bottom: 10px;
+}
+
+.select-rol {
+    display:block;
+    width: 100%;
+    padding: .375rem .75rem !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    background-clip: padding-box;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;;
+}
+
+.btn-primary {
+    text-transform: uppercase;
+}
+
+/* EDICIÓN DE USUARIOS */
+
+.list-users {
+    border-color: #dadada;
+    border-width: 1px;
+    border-style: solid;
+
+}
+
+.list-users {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fila-user-edit, .list-users {
+    padding: 5px 0;
+}
+
+.title-list-users {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.input-group input {
+    width: 80% !important;
+}
+/* --------------------------- */
+/* ADMINISTRACIÓN DE  NOTICIAS */
+/* EDICIÓN / ELIMINACIÓN */
+.btn-secondary, .btn-warning, .btn-danger, .btn-success {
+    text-transform: uppercase !important;
+    font-weight: 700;
+    text-align: center;
+}
+
+.notice-edit_delete {
+    border-color: #dadada;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.notice-edit_delete {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.btn-secondary, .btn-warning, .btn-danger, .btn-success {
+    font-weight: 600 !important;
+    padding: 8px 20px !important;
+}
+
+.btn-g-c {
+    margin: 5px 0;
+}
+
+.btn-cancel-save {
+    display: block;
+    justify-content: space-around;
+}
+
+.c-img-date {
+    justify-content: center;
+}
+
+.c-date {
+    padding: 7px 0;
+    margin-bottom: 18px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #ffffff;
+}
+
+.c-img {
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.c-img img {
+    border-radius: 10px;
+}

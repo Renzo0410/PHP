@@ -1,0 +1,17 @@
+.c_serv {
+    margin: 20px 0;
+}
+
+.img_servicios img, .card_servicios img {
+    filter: brightness(50%);
+    height: 500px;
+    object-fit: cover;
+}
+
+.c_s-t {
+    margin-top: 20px;
+}
+
+.c_s-t p {
+    text-align: justify;
+}

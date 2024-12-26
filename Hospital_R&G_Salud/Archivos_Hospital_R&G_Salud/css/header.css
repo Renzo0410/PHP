@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: "Poppins", sans-serif;
+}
+
+.icon_burguer {
+    display: none;
+}
+
+.c_h {
+    padding-top: 10px;
+    background-color: #FAFAFA;
+}
+
+.c_h header {
+    align-items: center;
+}
+
+.title_h {
+    color: #0D6EFD !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    font-size: 2rem !important;
+}
+
+.c_h nav {
+    margin: auto;
+}
+
+.c_h nav a {
+    text-decoration: none;
+    color: #818181;
+}
+
+.active {
+    font-weight: 600 !important;
+}

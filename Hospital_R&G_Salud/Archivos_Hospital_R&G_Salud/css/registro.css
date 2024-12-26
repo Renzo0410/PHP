@@ -1,0 +1,55 @@
+.form_r {
+    margin-bottom: 20px;
+}
+
+.c_form h2 {
+    font-weight: 300;
+    padding: 10px 0;
+}
+
+.c_form h4 {
+    font-weight: 300;
+}
+
+.text1-r {
+    font-size: 1.2rem;
+}
+
+
+.text2-r span, .form_r span {
+    color: #d51e1e;
+}
+
+.bi-exclamation-circle-fill, .form-check-label a {
+    color: #101a9a;
+}
+
+.form-check {
+    margin: 25px 0 !important;
+    padding: 0 50px !important;
+}
+
+.c_s-in select, .c_s-in input, .select_p, .select_via  {
+    display:block;
+    width: 100%;
+    padding: .375rem .75rem !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    background-clip: padding-box;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;;
+}
+
+
+.c_submit {
+    padding: 10px 0;
+}
+
+.c_submit input {
+    padding: 20px 30px;
+}
+

@@ -1,0 +1,12 @@
+.c_notice {
+    width: 100%;
+}
+
+.c_notice hr {
+    margin: 20px 0;
+}
+
+.rounded-start {
+    height: 100% !important;
+    object-fit: cover !important;
+}

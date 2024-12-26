@@ -1,0 +1,47 @@
+.c_login {
+    padding: 40px 0;
+}
+
+.div_right {
+    border-right-style: solid;
+    border-color: #b2afaf;
+}
+
+.text-center h3 {
+    font-weight: 300;
+}
+
+.text_s, .c_btn {
+    margin: 30px 0;
+}
+
+.c_user, .c_pass {
+    margin-bottom: 40px;
+}
+
+.c_btn_h-u {
+    width: 100%;
+}
+
+.c_img-l {
+    margin: 40px 0 50px 0;
+}
+
+.btn_acceso, .btn_h-u {
+    color: #FAFAFA !important;
+    background-color: #101a9a !important;
+    width: 50%;
+    padding: 15px 0 !important;
+    }
+
+@media screen and (max-width: 770px) {
+    .div_right {
+        border-right-style: none;   
+        border-bottom-style: solid;   
+        border-color: #b2afaf;
+    }
+
+    .div_left {
+        padding-top: 40px;
+    }
+}
